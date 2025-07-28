@@ -17,9 +17,9 @@ By comparing summer seasons (2022 vs 2023), I was able to quantify the dynamics 
 ### 🧠 Machine Learning with Google Earth Engine
 
 In this second exploration, I tested how machine learning algorithms can be used to classify land cover types from satellite images. Across three regions (Scotland, Iceland, and Washington State), I implemented:
-- K-means clustering (unsupervised)  
-- Support Vector Machine (SVM), binary classification for snow detection  
-- Random Forest, multiclass classification trained on ESA WorldCover data
+- **K-means clustering** (unsupervised)  
+- **Support Vector Machine (SVM)**, binary classification for snow detection  
+- **Random Forest**, multiclass classification trained on ESA WorldCover data
 Each method was tuned and validated using accuracy metrics and confusion matrices. The result is a practical overview of how well different classifiers handle real-world environmental data.
 
 📎 [Read the full report](./reports/GG_Tommasino_Report6.pdf)
